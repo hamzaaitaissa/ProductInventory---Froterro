@@ -1,0 +1,23 @@
+# Build and Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.csproj.user
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# VS Code
+.vscode/
+
+# OS generated files
+Thumbs.db
+*.DS_Store
+
+# Logs
+*.log
